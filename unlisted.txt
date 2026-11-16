@@ -1,0 +1,7 @@
+com.google.android.gms.setup
+com.location.provider
+gg.now.accounts
+gg.now.ads.service
+gg.now.billing.interceptor
+gg.now.billing.service
+gg.now.billing.service2

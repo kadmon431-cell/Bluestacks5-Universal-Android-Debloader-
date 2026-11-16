@@ -1,0 +1,11 @@
+com.android.chrome
+com.android.vending
+com.google.android.backuptransport
+com.google.android.gms
+com.google.android.gsf
+com.google.android.gsf.login
+com.google.android.onetimeinitializer
+com.google.android.partnersetup
+com.google.android.play.games
+com.google.android.syncadapters.calendar
+com.google.android.syncadapters.contacts

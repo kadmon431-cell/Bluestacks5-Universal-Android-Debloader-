@@ -1,0 +1,3 @@
+android.ext.services
+com.android.camera2
+com.uncube.launcher3
